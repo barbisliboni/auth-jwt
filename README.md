@@ -1,5 +1,5 @@
 # Authorization with JWT
-#### A simple guide of JSON Web Token
+#### A simple guide to JSON Web Token
 ---
 
 #### JWT Structure
