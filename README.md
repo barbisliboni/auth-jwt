@@ -3,10 +3,8 @@
 ---
 
 #### JWT Structure
-![image](https://user-images.githubusercontent.com/69375387/235814725-6e0de862-f3bf-418b-9805-b1b7fc724602.png)
+![jwt drawio](https://user-images.githubusercontent.com/69375387/236099886-e0286253-2f94-4844-bcb7-349127d8a535.png)
 
 ##### Header Structure
-![image](https://user-images.githubusercontent.com/69375387/235815426-592e3771-7ea4-4299-b8af-43d3aa384258.png)
-
-
+![jwt drawioo](https://user-images.githubusercontent.com/69375387/236099960-9b7f0596-f3d0-4149-8e60-cfff1d4ca8a8.png)
 
